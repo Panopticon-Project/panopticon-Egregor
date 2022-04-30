@@ -9,3 +9,7 @@ https://blog.morphisec.com/egregor-ransomware-adopting-new-techniques
 https://www.infosecurity-magazine.com/news/experts-foxtons-breach-egregor/
 
 https://www.infosecurity-magazine.com/news/police-arrest-egregor-ransomware/
+
+https://www.digitalshadows.com/blog-and-research/egregor-the-new-ransomware-variant-to-watch/
+
+https://blog.morphisec.com/egregor-ransomware-adopting-new-techniques
